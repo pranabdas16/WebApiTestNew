@@ -7,6 +7,7 @@ using System.Threading.Tasks;
 
 namespace WebApiTestNew.Controllers
 {
+    //http://localhost:6600/WeatherForecast
     [ApiController]
     [Route("[controller]")]
     public class WeatherForecastController : ControllerBase
